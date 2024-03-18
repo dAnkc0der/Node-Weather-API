@@ -1,4 +1,4 @@
-# Assignment-Xiv-Tech
+# Node-Weather-API
 
 A Node.js server that fetches real-time weather data for multiple cities using the OpenWeatherMap API.
 
